@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Casual Tux FlowerStripe NoShadow</dc:title>
+        <dc:title>Casual Tux FlowerStripe</dc:title>
         <dc:date>August 02, 2019</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -36,7 +36,7 @@
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>Casual Tux FlowerStripe NoShadow</rdf:li>
+            <rdf:li>Casual Tux FlowerStripe</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:rights>
@@ -53,11 +53,11 @@
 https://commons.wikimedia.org/wiki/File:Tux.svg
 
 All other work done by Troy Dawson.
-Casual Tux FlowerStripe NoShadow is released under the same license as the original Tux.
+Casual Tux FlowerStripe is released under the same license as the original Tux.
 &quot;The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.&quot;</dc:description>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -298,58 +298,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        x2="194.85001"
        y2="259.36899" />
     <radialGradient
-       id="ag-6"
-       gradientUnits="userSpaceOnUse"
-       cy="-551.03998"
-       cx="274.82199"
-       gradientTransform="matrix(0.5671,0,0,-0.2835,81.263,201.645)"
-       r="165.384">
-      <stop
-         stop-opacity=".502"
-         offset="0"
-         id="stop4662-9" />
-      <stop
-         stop-opacity="0"
-         offset="1"
-         id="stop4664-9" />
-    </radialGradient>
-    <radialGradient
-       id="ak-8"
-       gradientUnits="userSpaceOnUse"
-       cy="-551.04199"
-       cx="268.79401"
-       gradientTransform="matrix(0.5823,0,0,-0.2835,-61.6052,201.14)"
-       r="165.383">
-      <stop
-         stop-opacity=".502"
-         offset="0"
-         id="stop4669-8" />
-      <stop
-         stop-opacity="0"
-         offset="1"
-         id="stop4671-3" />
-    </radialGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient22267-8"
-       id="linearGradient22269"
-       x1="434.07629"
-       y1="585.42938"
-       x2="577.4024"
-       y2="587.86841"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient22267-8"
-       id="linearGradient22301"
-       x1="624.62872"
-       y1="577.6795"
-       x2="783.06982"
-       y2="566.70392"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect" />
-    <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
        id="radialGradient36559-3-0-3"
@@ -531,22 +479,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="392.87164"
        fy="507.48264"
        r="346.57358" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect32154"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect32156"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -613,22 +545,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="395.38782"
        fy="553.06592"
        r="333.21906" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect36123-2"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect36125-4"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -706,22 +622,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="397.26788"
        fy="503.6481"
        r="342.13724" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect41245"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect41247"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -865,22 +765,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="395.38782"
        fy="553.06592"
        r="333.21906" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect36123-8"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect36125-2"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -958,22 +842,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="397.26788"
        fy="503.6481"
        r="342.13724" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect41888"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect41890"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -1117,16 +985,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="395.38782"
        fy="553.06592"
        r="333.21906" />
-    <linearGradient
-       gradientTransform="translate(-3.0012103e-6,3.9443574e-6)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
-       id="linearGradient41825-8"
-       x1="799.32672"
-       y1="445.55365"
-       x2="689.55005"
-       y2="518.92285"
-       gradientUnits="userSpaceOnUse" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath43455">
@@ -1224,22 +1082,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="392.87164"
        fy="507.48264"
        r="346.57358" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect36123-3"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect36125-8"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -1317,22 +1159,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="392.87164"
        fy="507.48264"
        r="346.57358" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect43566"
-       effect="spiro" />
-    <inkscape:path-effect
-       end_linecap_type="round"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="round"
-       interpolator_beta="0.2"
-       interpolator_type="Linear"
-       sort_points="true"
-       offset_points="0.23518959,-9.370798 | 1.3416731,-5.7631408 | 2.8285843,-3.5783927"
-       is_visible="true"
-       id="path-effect43568"
-       effect="powerstroke" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6719"
@@ -1399,16 +1225,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        fx="395.38782"
        fy="553.06592"
        r="333.21906" />
-    <linearGradient
-       gradientTransform="translate(5.4406811e-6)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
-       id="linearGradient41788-1"
-       x1="293.28964"
-       y1="472.17325"
-       x2="360.91861"
-       y2="517.284"
-       gradientUnits="userSpaceOnUse" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath43859">
@@ -1429,6 +1245,48 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        x2="360.91861"
        y2="517.284"
        gradientTransform="matrix(2.8632827,-1.3351706,1.3351706,2.8632827,-1083.1897,-1391.0384)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient41823-2"
+       id="linearGradient22301-9"
+       x1="624.62872"
+       y1="577.6795"
+       x2="869.63617"
+       y2="574.9483"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="translate(-3.1e-4,-3e-4)" />
+    <linearGradient
+       gradientTransform="translate(6e-5,-1.7000642e-4)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient41823-2"
+       id="linearGradient41788-1-0"
+       x1="293.28964"
+       y1="472.17325"
+       x2="396.64438"
+       y2="557.13196"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-1.8e-4,3e-5)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient41823-2"
+       id="linearGradient41825-8-0"
+       x1="799.32672"
+       y1="445.55365"
+       x2="679.93158"
+       y2="534.0376"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient41823-2"
+       id="linearGradient22269-1"
+       x1="434.07629"
+       y1="585.42938"
+       x2="655.7243"
+       y2="583.74622"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="translate(3.6034e-4,-1.2867129e-4)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -1443,9 +1301,9 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
      inkscape:window-height="1005"
      id="namedview6319"
      showgrid="false"
-     inkscape:zoom="0.68111408"
-     inkscape:cx="556.37322"
-     inkscape:cy="500"
+     inkscape:zoom="0.72776573"
+     inkscape:cx="336.8161"
+     inkscape:cy="501.37407"
      inkscape:window-x="2189"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -1453,7 +1311,7 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false" />
   <title
-     id="title4657">Casual Tux FlowerStripe NoShadow</title>
+     id="title4657">Casual Tux FlowerStripe</title>
   <desc
      id="desc4659">For more information see: http://commons.wikimedia.org/wiki/Image:Tux.svg</desc>
   <radialGradient
@@ -1489,7 +1347,7 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        id="stop4671" />
   </radialGradient>
   <g
-     id="g13312"
+     id="g4219"
      transform="matrix(1.0508144,0,0,1.0508144,-52.598072,-0.50810127)">
     <path
        sodipodi:nodetypes="ccccc"
@@ -3377,6 +3235,12 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
          inkscape:connector-curvature="0"
          style="fill:#ffcc00" />
     </g>
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path7950"
+       d="m 509.68479,453.30769 -4.4777,358.7235 c 130.2663,-71.47563 234.06288,-44.05806 277.37777,-47.36373 l -84.0701,-34.29805 13.21218,-68.73485 c 7.80464,-17.04853 19.51769,-24.33486 35.09255,-27.01218 16.42265,-28.59219 23.04847,-53.64041 14.76348,-97.39169 -6.34927,-48.6065 -33.7884,-65.70818 -67.01029,-86.52584 -32.4782,-65.25524 26.12081,-75.00733 49.27334,-77.36881 -6.48432,-11.66537 -6.50167,-4.46815 -17.84316,-52.12665 z"
+       style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.592163,0,0,2.5403222,64.110009,10.00239)"
        id="g5651">
@@ -4029,8 +3893,14 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
     <path
        sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
-       id="path7950"
-       d="m 509.68479,453.30769 -4.4777,358.7235 c 130.2663,-71.47563 234.06288,-44.05806 277.37777,-47.36373 l -84.0701,-34.29805 13.21218,-68.73485 c 7.80464,-17.04853 19.51769,-24.33486 35.09255,-27.01218 16.42265,-28.59219 23.04847,-53.64041 14.76348,-97.39169 -6.34927,-48.6065 -33.7884,-65.70818 -67.01029,-86.52584 -32.4782,-65.25524 26.12081,-75.00733 49.27334,-77.36881 -6.48432,-11.66537 -6.50167,-4.46815 -17.84316,-52.12665 z"
+       id="path7950-2-7"
+       d="m 509.68479,453.30769 -4.4777,358.7235 c 130.2663,-71.47563 234.06288,-44.05806 277.37778,-47.36373 l -84.07011,-34.29805 13.21218,-68.73485 c 7.80464,-17.04853 19.51769,-24.33486 35.09255,-27.01218 16.42268,-28.59219 23.04848,-53.64041 14.76348,-97.39169 -6.3493,-48.6065 -33.7884,-65.70818 -67.01029,-86.52584 -32.4782,-65.25524 26.12081,-75.00733 49.27334,-77.36881 -6.48432,-11.66537 -6.50167,-4.46815 -17.84316,-52.12665 z"
+       style="fill:url(#linearGradient22301-9);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path7950-1"
+       d="m 525.27616,451.77085 4.4777,358.72349 c -49.32599,-21.89963 -79.89085,-23.28335 -101.52528,-27.53333 7.90115,-38.74027 -10.73855,-34.80638 -62.52735,-84.56514 -16.4768,-12.32702 -41.74985,-34.77602 -56.36112,-43.59132 -1.96903,-29.06433 -0.94373,-59.01026 9.75019,-102.76155 15.28347,-39.66144 17.37452,-38.04201 42.45872,-85.19686 20.84672,-67.96925 -35.33535,-42.71049 -23.14021,-58.06227 6.48432,-11.66536 5.73379,-8.09507 35.35334,-48.69711 z"
        style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.592163,0,0,2.5403222,64.110009,10.00239)"
@@ -4669,12 +4539,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
          style="fill:url(#linearGradient4913)"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path7950-2"
-       d="m 509.6851,453.30799 -4.4777,358.7235 c 130.2663,-71.47563 234.06288,-44.05806 277.37778,-47.36373 l -84.07011,-34.29805 13.21218,-68.73485 c 7.80464,-17.04853 19.51769,-24.33486 35.09255,-27.01218 16.42268,-28.59219 23.04848,-53.64041 14.76348,-97.39169 -6.3493,-48.6065 -33.7884,-65.70818 -67.01029,-86.52584 -32.4782,-65.25524 26.12081,-75.00733 49.27334,-77.36881 -6.48432,-11.66537 -6.50167,-4.46815 -17.84316,-52.12665 z"
-       style="fill:url(#linearGradient22301);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.592163,0,0,2.5403222,72.935909,-38.266171)"
        id="g9403">
@@ -5446,12 +5310,6 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
        id="path9588-4"
        d="M 595.43732,427.28557 511.45682,452.00994 676.2029,351.72503 Z"
        style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cccccccccc"
-       inkscape:connector-curvature="0"
-       id="path7950-1"
-       d="m 525.27616,451.77085 4.4777,358.72349 c -49.32599,-21.89963 -79.89085,-23.28335 -101.52528,-27.53333 7.90115,-38.74027 -10.73855,-34.80638 -62.52735,-84.56514 -16.4768,-12.32702 -41.74985,-34.77602 -56.36112,-43.59132 -1.96903,-29.06433 -0.94373,-59.01026 9.75019,-102.76155 15.28347,-39.66144 17.37452,-38.04201 42.45872,-85.19686 20.84672,-67.96925 -35.33535,-42.71049 -23.14021,-58.06227 6.48432,-11.66536 5.73379,-8.09507 35.35334,-48.69711 z"
-       style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g31998"
        transform="matrix(0.31652753,0,0,0.31652753,507.30496,661.51377)">
@@ -5678,9 +5536,9 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
     <path
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
-       id="path7950-1-0"
-       d="m 525.27538,451.77099 4.47769,358.72349 c -49.32589,-21.89963 -79.8907,-23.28335 -101.52509,-27.53333 7.90114,-38.74027 -10.73853,-34.80638 -62.52722,-84.56514 -16.47677,-12.32702 -41.74977,-34.77602 -56.36101,-43.59132 -1.96903,-29.06433 -0.94373,-59.01026 9.75017,-102.76155 15.28344,-39.66144 17.37449,-38.04201 42.45864,-85.19686 20.84668,-67.96925 -35.33528,-42.71049 -23.14016,-58.06227 6.4843,-11.66536 5.73377,-8.09507 35.35327,-48.69711 z"
-       style="fill:url(#linearGradient22269);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path7950-1-0-9"
+       d="m 525.27574,451.77085 4.47769,358.72354 c -49.32589,-21.89965 -79.8907,-23.28345 -101.52509,-27.53335 7.90114,-38.7403 -10.73853,-34.80641 -62.52722,-84.56517 -16.47677,-12.32702 -41.74977,-34.77602 -56.36101,-43.59132 -1.96903,-29.06433 -0.94373,-59.01026 9.75017,-102.76155 15.28344,-39.66144 17.37449,-38.04201 42.45864,-85.19686 20.84668,-67.96925 -35.33528,-42.71049 -23.14016,-58.06227 6.4843,-11.66536 5.73377,-8.09507 35.35327,-48.69711 z"
+       style="fill:url(#linearGradient22269-1);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -6269,9 +6127,9 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
-       id="path7952-9-8"
-       d="m 760.69667,535.21542 c 25.91416,-10.31195 47.00771,-29.64286 87.18433,-13.2711 -9.27786,-22.52435 -38.86673,-64.79074 -48.55411,-76.39069 -19.01937,-30.55159 -17.50982,-22.99995 -54.36654,-71.03198 -72.31941,3.22817 -65.33959,51.83411 -50.32929,75.00881 19.76564,12.41714 60.92239,34.21903 66.06561,85.68496 z"
-       style="fill:url(#linearGradient41825-8);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path7952-9-8-6"
+       d="m 760.69648,535.21545 c 25.91415,-10.31195 47.0077,-29.64286 87.18432,-13.2711 -9.27786,-22.52435 -38.86673,-64.79074 -48.55411,-76.39069 -19.01936,-30.55159 -17.50981,-22.99995 -54.36653,-71.03198 -72.31941,3.22817 -65.33959,51.83411 -50.32929,75.00881 19.76564,12.41714 60.92239,34.21903 66.06561,85.68496 z"
+       style="fill:url(#linearGradient41825-8-0);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        clip-path="url(#clipPath43455)"
        transform="matrix(0.27843371,-0.12983577,0.12983577,0.27843371,750.88569,622.23922)"
@@ -6837,9 +6695,9 @@ Casual Tux FlowerStripe NoShadow is released under the same license as the origi
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
-       id="path7952-7-2-3"
-       d="m 319.49166,557.77533 c -25.91417,-10.31196 -20.96772,-19.78317 -61.14431,-3.4114 8.686,-26.58425 18.15308,-52.61112 34.94226,-82.19053 10.14209,-21.27189 25.20347,-47.93921 51.99928,-73.35193 72.31941,3.22817 44.41654,53.77931 28.37556,70.38857 -16.15825,16.96247 -38.96867,39.99925 -54.17279,88.56529 z"
-       style="fill:url(#linearGradient41788-1);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path7952-7-2-3-6"
+       d="m 319.4917,557.77517 c -25.91417,-10.31196 -20.96772,-19.78317 -61.14431,-3.4114 8.686,-26.58425 18.15308,-52.61112 34.94226,-82.19053 10.14209,-21.27189 25.20347,-47.93921 51.99928,-73.35193 72.31942,3.22817 44.41655,53.77931 28.37557,70.38857 -16.15825,16.96247 -38.96868,39.99925 -54.1728,88.56529 z"
+       style="fill:url(#linearGradient41788-1-0);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        clip-path="url(#clipPath43859)"
        id="g31998-4"
