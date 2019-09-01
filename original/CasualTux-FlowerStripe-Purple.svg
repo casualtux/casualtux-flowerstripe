@@ -1351,10 +1351,10 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
      inkscape:window-height="1005"
      id="namedview6319"
      showgrid="false"
-     inkscape:zoom="0.72776573"
-     inkscape:cx="588.27064"
-     inkscape:cy="501.37407"
-     inkscape:window-x="2189"
+     inkscape:zoom="0.8"
+     inkscape:cx="529.88405"
+     inkscape:cy="509.36778"
+     inkscape:window-x="1930"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4655"
@@ -1397,7 +1397,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        id="stop4671" />
   </radialGradient>
   <g
-     id="g3130">
+     id="g5261">
     <g
        id="g32863"
        transform="translate(2.2383203e-4)">
@@ -1417,13 +1417,13 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        inkscape:connector-curvature="0"
        id="path9588-3-1"
        d="m 368.05478,353.78379 1.65121,26.54281 39.73262,-11.491 -5.78778,-17.81352 z"
-       style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path9588-3"
        d="m 726.34415,317.83282 -1.65121,26.54281 -39.73262,-11.491 5.78778,-17.81352 z"
-       style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -5372,7 +5372,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        inkscape:connector-curvature="0"
        id="path9588-4"
        d="M 595.43732,427.28557 511.45682,452.00994 676.2029,351.72503 Z"
-       style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g31998"
        transform="matrix(0.31652753,0,0,0.31652753,507.30496,661.51377)">
@@ -5595,7 +5595,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        inkscape:connector-curvature="0"
        id="path9588-9"
        d="m 639.07294,426.77649 c -2.89259,-7.87949 -6.72482,-15.75896 -18.0076,-23.63846 l 55.13756,-52.43113 50.61836,-32.98738 c 7.40472,8.65582 10.38454,17.31163 12.29756,25.96745 z"
-       style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
@@ -5607,7 +5607,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        inkscape:connector-curvature="0"
        id="path9588-4-1"
        d="m 458.01258,432.324 66.83294,20.08472 -131.10738,-81.466 z"
-       style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(0.30721761,0,0,0.30721761,307.80394,668.09895)"
        id="g41187">
@@ -6174,7 +6174,7 @@ Casual Tux FlowerStripe is released under the same license as the original Tux.
        inkscape:connector-curvature="0"
        id="path9588-9-7"
        d="m 432.51812,439.5771 c 2.14315,-6.19062 4.98245,-12.38118 13.34181,-18.57176 l -40.8513,-41.19295 -37.50302,-25.91683 c -5.48614,6.80049 -7.69385,13.60104 -9.11122,20.40158 z"
-       style="fill:#0f0f0f;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#440055;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5661118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
