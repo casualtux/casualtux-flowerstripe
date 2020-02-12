@@ -75,7 +75,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
      id="defs6321">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient41823-2">
+       id="linearGradient41823-purple">
       <stop
          style="stop-color:#5e0e7c;stop-opacity:1;"
          offset="0"
@@ -87,7 +87,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient22267-8">
+       id="linearGradient22267-purple">
       <stop
          style="stop-color:#5e0e7c;stop-opacity:1;"
          offset="0"
@@ -115,7 +115,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
        effect="powerstroke" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-purple"
        id="linearGradient43459"
        gradientUnits="userSpaceOnUse"
        x1="799.32672"
@@ -125,7 +125,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
        gradientTransform="matrix(2.9500516,1.3756316,-1.3756316,2.9500516,-1359.1796,-2868.5799)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient22267-8"
+       xlink:href="#linearGradient22267-purple"
        id="linearGradient43863"
        gradientUnits="userSpaceOnUse"
        x1="293.28964"
@@ -135,7 +135,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
        gradientTransform="matrix(2.8632827,-1.3351706,1.3351706,2.8632827,-1083.1897,-1391.0384)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-purple"
        id="linearGradient22301-9"
        x1="624.62872"
        y1="577.6795"
@@ -998,7 +998,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
        r="333.21906" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-purple"
        id="linearGradient22269-1"
        x1="434.07629"
        y1="585.42938"
@@ -1230,7 +1230,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
     <linearGradient
        gradientTransform="matrix(0.99980555,0,0,1.0202078,-25.77342,14.069999)"
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-purple"
        id="linearGradient41825-8-0"
        x1="799.32672"
        y1="445.55365"
@@ -1470,7 +1470,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
     <linearGradient
        gradientTransform="matrix(0.99980555,0,0,1.0202078,-25.77318,14.069795)"
        inkscape:collect="always"
-       xlink:href="#linearGradient41823-2"
+       xlink:href="#linearGradient41823-purple"
        id="linearGradient41788-1-0"
        x1="293.28964"
        y1="472.17325"
