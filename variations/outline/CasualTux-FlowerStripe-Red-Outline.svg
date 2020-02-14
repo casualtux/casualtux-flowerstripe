@@ -1241,7 +1241,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
        clipPathUnits="userSpaceOnUse"
        id="clipPath43455-3">
       <path
-         style="fill:url(#linearGradient43459);fill-opacity:1;stroke:#7d7d7d;stroke-width:8.35274982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient43459);fill-opacity:1;stroke:#000000;stroke-width:8.35274982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 148.65559,-243.2284 c 90.63355,5.22755 179.45282,-22.78268 275.45442,80.78309 3.61504,-79.21091 -25.53067,-244.60233 -38.15168,-292.14905 -14.08039,-116.29241 -20.01542,-91.9381 -62.67026,-284.33634 -217.78677,-89.9616 -264.059806,63.0301 -251.658497,152.0453 41.228247,63.82144 132.651417,184.75467 77.026017,343.657 z"
          id="path43457-5"
          inkscape:connector-curvature="0"
@@ -1481,7 +1481,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
        clipPathUnits="userSpaceOnUse"
        id="clipPath43859-6">
       <path
-         style="fill:url(#linearGradient43863);fill-opacity:1;stroke:#7d7d7d;stroke-width:8.10707283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient43863);fill-opacity:1;stroke:#000000;stroke-width:8.10707283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 576.3304,-220.54587 c -87.96782,5.07378 -86.45042,-28.64933 -179.62825,71.87028 -10.62403,-87.71551 -18.26742,-174.87797 -9.68881,-281.9886 0.63807,-74.44885 8.15764,-170.91444 50.9513,-279.45521 211.38105,-87.31557 198.98164,94.68172 175.22797,163.65617 -23.61785,70.14237 -58.17247,166.55897 -36.86221,325.91736 z"
          id="path43861-2"
          inkscape:connector-curvature="0"
@@ -1834,25 +1834,25 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
     <g
        id="g7891">
       <path
-         style="fill:#800000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 342.20997,375.00295 1.65089,27.07918 39.72489,-11.72321 -5.78665,-18.17349 z"
          id="path9588-3-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#800000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 700.42967,338.32549 -1.65089,27.07918 -39.72489,-11.72321 5.78665,-18.17349 z"
          id="path9588-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 823.52048,548.67037 c -43.7736,6.46172 -89.24551,15.076 -86.56101,12.23974 l 65.51426,-48.29694 c 8.08416,10.9505 14.21986,23.84946 21.04675,36.0572 z"
          id="path9588"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 232.73547,580.60398 c 43.77359,6.46173 89.24549,15.07601 86.561,12.23975 l -65.51424,-48.29694 c -8.08419,10.9505 -14.21988,23.84945 -21.04676,36.05719 z"
          id="path9588-42"
          inkscape:connector-curvature="0"
@@ -3720,7 +3720,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
            d="m 54.582,279.377 c -4.823,5.111 -14.472,-4.969 -26.855,5.543 -5.112,4.32 1.8,11.088 0.576,25.561 -0.504,5.616 -2.521,8.352 -4.536,15.768 -1.584,5.76 -2.088,8.064 0.144,10.729 5.977,6.984 11.952,-2.52 45.576,4.32 17.856,3.6 23.256,10.295 41.76,8.64 6.192,-0.576 7.272,-0.504 12.528,-5.472 6.624,-6.264 6.768,-4.824 7.56,-8.856 2.592,-13.248 3.528,-13.176 -6.336,-28.8 -9.864,-15.624 -11.448,-18.504 -18,-28.872 -6.552,-10.224 -19.512,-28.8 -26.928,-29.017 -5.904,-0.144 -9.216,3.024 -12.888,6.769 -3.672,3.745 -7.129,17.855 -12.601,23.687 z" />
       </g>
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 483.81244,476.53801 -4.47683,365.97251 c 130.24097,-72.91999 234.01737,-44.94837 277.32384,-48.32084 l -84.05376,-34.99114 13.20961,-70.12383 c 7.80313,-17.39305 19.5139,-24.82662 35.08573,-27.55804 16.41946,-29.16998 23.04399,-54.72436 14.76061,-99.35976 -6.34804,-49.58873 -33.78183,-67.036 -66.99726,-88.27434 -32.47188,-66.5739 26.11573,-76.52306 49.26376,-78.93226 -6.48306,-11.9011 -6.50041,-4.55844 -17.83969,-53.18002 z"
          id="path7950"
          inkscape:connector-curvature="0"
@@ -4375,13 +4375,13 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
            d="m 269.35,236.025 c -0.68,2.647 -3.303,9.161 -4.081,8.599 -0.548,-0.4 1.377,-3.056 2.938,-8.225 0.187,-0.611 0.437,-1.438 0.806,-1.988 0.464,-0.763 1.361,-2.293 0.337,1.614 z" />
       </g>
       <path
-         style="fill:url(#linearGradient22301-9);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient22301-9);fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 483.81244,476.53801 -4.47683,365.97251 c 130.24097,-72.91999 234.01737,-44.94837 277.32385,-48.32084 l -84.05377,-34.99114 13.20961,-70.12383 c 7.80313,-17.39305 19.5139,-24.82662 35.08573,-27.55804 16.41949,-29.16998 23.044,-54.72436 14.76061,-99.35976 -6.34807,-49.58873 -33.78183,-67.036 -66.99726,-88.27434 -32.47188,-66.5739 26.11573,-76.52306 49.26376,-78.93226 -6.48306,-11.9011 -6.50041,-4.55844 -17.83969,-53.18002 z"
          id="path7950-2-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.40078,474.97011 4.47683,365.97251 c -49.3164,-22.34218 -79.87532,-23.75386 -101.50554,-28.08972 7.89961,-39.52313 -10.73646,-35.50974 -62.51519,-86.27402 -16.4736,-12.57612 -41.74173,-35.47876 -56.35016,-44.4722 -1.96865,-29.65166 -0.94355,-60.20273 9.74829,-104.83814 15.2805,-40.46291 17.37114,-38.81075 42.45047,-86.9185 20.84266,-69.34276 -35.32848,-43.57357 -23.13571,-59.23558 6.48306,-11.90109 5.73267,-8.25865 35.34646,-49.68117 z"
          id="path7950-1"
          inkscape:connector-curvature="0"
@@ -5789,7 +5789,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
         </g>
       </g>
       <path
-         style="fill:#800000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 569.5483,449.99004 485.58413,475.21403 650.29817,372.90259 Z"
          id="path9588-4"
          inkscape:connector-curvature="0"
@@ -6012,19 +6012,19 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
         </g>
       </g>
       <path
-         style="fill:#800000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 613.17543,449.47067 c -2.89203,-8.03872 -6.72351,-16.07741 -18.0041,-24.11614 l 55.12684,-53.49065 50.60852,-33.65398 c 7.40328,8.83074 10.38252,17.66146 12.29517,26.4922 z"
          id="path9588-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:url(#linearGradient22269-1);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient22269-1);fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 499.40036,474.97011 4.47682,365.97256 c -49.3163,-22.3422 -79.87517,-23.75396 -101.50535,-28.08974 7.8996,-39.52316 -10.73644,-35.50977 -62.51506,-86.27405 -16.47357,-12.57612 -41.74165,-35.47876 -56.35005,-44.4722 -1.96865,-29.65166 -0.94355,-60.20273 9.74827,-104.83814 15.28047,-40.46291 17.37111,-38.81075 42.45039,-86.9185 20.84262,-69.34276 -35.32841,-43.57357 -23.13566,-59.23558 6.48304,-11.90109 5.73265,-8.25865 35.34639,-49.68117 z"
          id="path7950-1-0-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <path
-         style="fill:#800000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 432.15028,455.13028 66.81994,20.49059 -131.08188,-83.11225 z"
          id="path9588-4-1"
          inkscape:connector-curvature="0"
@@ -6591,25 +6591,25 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
         </g>
       </g>
       <path
-         style="fill:#800000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 406.66078,462.52995 c 2.14273,-6.31571 4.98148,-12.63137 13.33921,-18.94705 l -40.84335,-42.02537 -37.49573,-26.44055 c -5.48507,6.93791 -7.69236,13.87589 -9.10945,20.81385 z"
          id="path9588-9-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 293.65633,583.11655 c -25.90913,-10.52034 -20.96364,-20.18295 -61.13242,-3.48034 8.68432,-27.12146 18.14955,-53.67427 34.93547,-83.85142 10.14012,-21.70175 25.19857,-48.90796 51.98917,-74.83421 72.30534,3.2934 44.40789,54.86607 28.37003,71.81097 -16.15511,17.30524 -38.96108,40.80754 -54.16225,90.355 z"
          id="path7952-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 734.77532,560.10094 c 25.90912,-10.52033 46.99857,-30.24187 87.16734,-13.53927 -9.27602,-22.97952 -38.85913,-66.10002 -48.54463,-77.93438 -19.01567,-31.16897 -17.50641,-23.46473 -54.35597,-72.46738 -72.30534,3.2934 -65.32688,52.88156 -50.3195,76.52457 19.7618,12.66806 60.91054,34.91052 66.05276,87.41646 z"
          id="path7952"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:url(#linearGradient41825-8-0);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient41825-8-0);fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 734.77532,560.10094 c 25.90911,-10.52033 46.99856,-30.24187 87.16737,-13.53927 -9.27606,-22.97952 -38.85917,-66.10002 -48.54467,-77.93438 -19.01566,-31.16897 -17.5064,-23.46473 -54.35596,-72.46738 -72.30534,3.2934 -65.32688,52.88156 -50.3195,76.52457 19.7618,12.66806 60.91054,34.91052 66.05276,87.41646 z"
          id="path7952-9-8-6"
          inkscape:connector-curvature="0"
@@ -7177,7 +7177,7 @@ Casual Tux FlowerStripe Outline is released under the same license as the origin
         </g>
       </g>
       <path
-         style="fill:url(#linearGradient41788-1-0);fill-opacity:1;stroke:#7d7d7d;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:url(#linearGradient41788-1-0);fill-opacity:1;stroke:#000000;stroke-width:2.59165788;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 293.65633,583.11655 c -25.90913,-10.52034 -20.96364,-20.18295 -61.13242,-3.48034 8.68432,-27.12146 18.14955,-53.67427 34.93547,-83.85142 10.14012,-21.70175 25.19857,-48.90796 51.98917,-74.83421 72.30536,3.2934 44.40791,54.86607 28.37005,71.81097 -16.15511,17.30524 -38.9611,40.80754 -54.16227,90.355 z"
          id="path7952-7-2-3-6"
          inkscape:connector-curvature="0"
